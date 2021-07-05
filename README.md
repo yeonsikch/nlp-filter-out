@@ -2,4 +2,4 @@
 
 본 실험에서는 한국어에 맞는 여러 토큰화 방법을 비교하며 적합한 토큰화 방법을 찾아내고 추가적으로, Computer Vision에 주로 쓰이는 CNN 모델의 자연어처리 접목 가능성을 실험하고자 한다. 이에 비교 모델로, SKT의 KoBERT 모델과 RNN계열중 하나인 GRU 모델을 함께 실험하며 결과를 비교해보고자 한다.
 
-https://www.notion.so/914b798e816c4f58a3fc284e0da0a425?v=17203cc83e1946f8adecae94d121ea02
+https://www.notion.so/75247b0f81cb4ed6bdb7bd419164250d
